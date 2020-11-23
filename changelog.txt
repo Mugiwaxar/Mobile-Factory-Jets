@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 04/10/2020
+  Bugfixes:
+    - jets should work when scenario starts with a cutscene
+    - jets work for all players (multiplayer fix)
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 16/08/2020
+  Features:
+    - Updated to Factorio 1.0
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 27/07/2020
+  Features:
+    - Created the "Mobile Factory: Jets" Extension
