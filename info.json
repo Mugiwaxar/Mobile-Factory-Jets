@@ -1,10 +1,10 @@
 {
 	"name": "Mobile_Factory-Jets",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"title": "Mobile Factory: Jets",
 	"author": "Mugiwaxar",
-	"dependencies": ["base >= 1.0", "Mobile_Factory >= 0.0.192"],
+	"dependencies": ["base >= 1.1", "Mobile_Factory >= 0.4.0"],
 	"description": "A Mobile Factory Extension: Add Jets that will help you! Build, repair, mine, attack enemies, ...",
-	"factorio_version": "1.0",
+	"factorio_version": "1.1",
 	"homepage":"https://mobile-factory.fandom.com/wiki/Mobile_Factory_Wiki"
 }
